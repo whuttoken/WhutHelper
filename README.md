@@ -33,5 +33,8 @@ Function.cs
 -------------
 提供通用的、常用的方法，例如检查email格式是否正确，以指定长度输出字符串等。数字转换，时间和日期转换，MD5等。
 
+Copying
+-------------
+Copyright (C) Wuhan Universiy of Technology. wutnews.net, Powered By Token Team
 
 
